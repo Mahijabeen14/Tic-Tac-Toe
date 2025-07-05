@@ -31,3 +31,17 @@ This playful project brings a candy-coated twist to the classic game, perfect fo
 4. Use *Reset* or *New Game* to play again.
 
 ---
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Mahijabeen14/Tic-Tac-Toe
+   
+2. Navigate to the folder:
+Bash
+cd tic-Tac-Toe
+
+
+3. Open index.html in your browser — and enjoy!
